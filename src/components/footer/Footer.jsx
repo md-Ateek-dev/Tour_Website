@@ -7,7 +7,7 @@ import weAccepts from '../../assets/we_assepts/cards.png';
 const Footer = () => {
     const discoverLinks = [
         { path: "/guest-reviews", text: "Guests Reviews" },
-        { path: "/about-us", text: "About Us" },
+        { path: "/about", text: "About Us" },
         { path: "/our-team", text: "Our Team" },
         { path: "/tour-managers", text: "Tour Managers" },
         { path: "/sales-partners", text: "Sales Partners" },
@@ -17,7 +17,7 @@ const Footer = () => {
     ];
 
     const supportLinks = [
-        { path: "/contact-us", text: "Contact Us" },
+        { path: "/contact", text: "Contact Us" },
         { path: "/feedback", text: "Leave Your Feedback" },
         { path: "/how-to-book", text: "How to Book" },
         { path: "/faq", text: "FAQ" },
