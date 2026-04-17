@@ -3,7 +3,7 @@ import bg_img from '/src/assets/images/air5.jpg';
 import img3 from '/src/assets/images/air6.jpg';
 import img4 from '/src/assets/images/air2.jpg';
 import img5 from '/src/assets/images/air3.jpg';
-import img1 from '/src/assets/images/UK.Avif';
+import img1 from '/src/assets/images/UK.avif';
 
 
 const Gallery = () => {
